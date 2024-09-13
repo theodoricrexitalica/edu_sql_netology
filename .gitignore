@@ -1,0 +1,4 @@
+# Ignore specific files
+.env
+netology/demo_small.sql
+netology/test.sql
